@@ -1,5 +1,5 @@
 # RentalcarsREST
-Extension of Rentalcars code to allow for output through REST via Glassfish
+Here the code for the Rentalcars test has been extended for output through REST via Glassfish.
 
 Glassfish 4.1.2 web profile needed
 
