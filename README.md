@@ -22,7 +22,3 @@ http://localhost:8080/RentalcarsREST_war/rentalcars/supplier
 http://localhost:8080/RentalcarsREST_war/rentalcars/score
 
 Stop domain with `asadmin stop-domain`
-
-Or enjoy a video showcasing it:
-
-https://streamable.com/15kpi
